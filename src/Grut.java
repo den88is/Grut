@@ -6,5 +6,6 @@ public class Grut {
         System.out.println("I am Grut!");
         System.out.println("Lalaala!");
         System.out.println("DDD");
+        System.out.println("In team");
     }
 }
