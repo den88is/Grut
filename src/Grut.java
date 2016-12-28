@@ -5,6 +5,6 @@ public class Grut {
     public static void main(String[] args) {
         System.out.println("I am Grut!");
         System.out.println("Lalaala!");
+        System.out.println("DDD");
     }
-
 }
